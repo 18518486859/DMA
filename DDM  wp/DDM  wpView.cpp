@@ -1,4 +1,4 @@
-
+//试验1
 // DDM  wpView.cpp : CDDMwpView 类的实现
 //
 
